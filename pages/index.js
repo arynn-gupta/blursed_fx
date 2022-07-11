@@ -24,7 +24,7 @@ export default function Home() {
   return (
     <>
       <button onClick={login}>Login with Unstoppable</button>
-      <button onclick={logout}>Logout</button>
+      <button onClick={logout}>Logout</button>
     </>
   );
 }
